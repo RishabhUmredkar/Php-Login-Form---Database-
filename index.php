@@ -19,7 +19,8 @@
     <input class="un " type="text" name = "cer" align="center" placeholder="Certificate No. " required>
     <input class="un" type ="file" name = "pdf" align ="center" accept=".pdf" required> 
     <br>
-      <button type="submit" name="submit" class="un" align="center">Submit</button>
+    <button type="submit" name="submit" class="un" align="center">Submit</button>
+    <a button type="submit" href = "show.php" name="submit" class="un" align="center">Show</button>
 </form>  
                 
     </div>
